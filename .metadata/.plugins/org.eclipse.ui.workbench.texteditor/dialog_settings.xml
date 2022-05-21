@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="PINK"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="GREEN"/>
+			<item value="MAGENTA"/>
+			<item value="YELLOW"/>
+			<item value="lbgreet"/>
+			<item value=""/>
+			<item value="lblogoimg"/>
+			<item value="lblogo"/>
+			<item value="LangName"/>
+			<item value="lblang"/>
+			<item value="lbhead"/>
+			<item value="langname"/>
+			<item value="request"/>
+			<item value="Color.GRAY"/>
+			<item value="Cbt"/>
+		</list>
+		<list key="replacehistory">
+			<item value="PINK"/>
+			<item value="MAGENTA"/>
+			<item value="ORANGE"/>
+			<item value="Cbt"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="801"/>
+		<item key="DIALOG_Y_ORIGIN" value="222"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
